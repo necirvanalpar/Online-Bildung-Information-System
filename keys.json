@@ -1,0 +1,983 @@
+{
+  "keys": [
+    {
+      "verifyKey": "a444d1240ba39ac19a479075dbd6525d",
+      "validUntil": "2024-11-06T11:50:13.869Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "e999d6d85559adf323f87fc9a0cfb8c7",
+      "validUntil": "2024-11-06T11:50:16.073Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "29e8f8fc58de68f14eb12e9203d4ab62",
+      "validUntil": "2024-11-06T11:50:18.302Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "8df44680e5af670f50593855bd5b8b43",
+      "validUntil": "2024-11-06T11:50:19.342Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "9345c4bc31266bbab0269c664c3fd036",
+      "validUntil": "2024-11-06T11:50:20.500Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "8500a6a7fd4295340124c8bc195499b1",
+      "validUntil": "2024-11-06T11:50:22.743Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "5ee18ede76c77dddde38ec43052272f3",
+      "validUntil": "2024-11-06T11:50:24.993Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "9f5f76df0983343b4310848d056cd98e",
+      "validUntil": "2024-11-06T11:50:27.254Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "561b9bfa07e61af6b436b41c8184ab06",
+      "validUntil": "2024-11-06T11:50:29.523Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "317fafe0903627e900f8662300cbc42d",
+      "validUntil": "2024-11-06T11:50:31.779Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "4fabd764e199be7313bca79265e995a9",
+      "validUntil": "2024-11-06T11:50:34.044Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "7bb7c96751d6e23805897db847efe664",
+      "validUntil": "2024-11-06T11:50:36.297Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "4944688a59344926e538699d9a517d7f",
+      "validUntil": "2024-11-06T11:50:38.529Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "4a24bd7b6ed983c295b4b259bcecb1d9",
+      "validUntil": "2024-11-06T11:50:40.823Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "0d120674f7156efdd9c6defd6902c2a1",
+      "validUntil": "2024-11-06T11:50:43.080Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "e59555dae5623337747eac2fe024e057",
+      "validUntil": "2024-11-06T11:50:45.325Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "75000d497036ddad1468390bbf630fdd",
+      "validUntil": "2024-11-06T11:50:47.583Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "569660960ee23ef9504d2a760314e228",
+      "validUntil": "2024-11-06T11:50:49.832Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "99aa394a17b610905e15f717dee4410d",
+      "validUntil": "2024-11-06T11:50:52.066Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "f1e810d79bd99a65eaa532c91db424ef",
+      "validUntil": "2024-11-06T11:50:54.356Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "777eb2baf0bbf65dfacb91185eb0c1ef",
+      "validUntil": "2024-11-06T11:50:56.587Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "3b301a2e4826e592fe46af750767aab4",
+      "validUntil": "2024-11-06T11:50:58.786Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "6757c4fedf5cfdacfbf87eb71dc6538a",
+      "validUntil": "2024-11-06T11:51:01.052Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "9e02fb6508b9319648bb2a47dbfb88c6",
+      "validUntil": "2024-11-06T11:51:03.318Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "671f0c83bada2fe6242277a06f839d5a",
+      "validUntil": "2024-11-06T11:51:05.535Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "f744aa32ad42977de79e00cd0ea36988",
+      "validUntil": "2024-11-06T11:51:07.798Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "93844de08d329c76ae4615c6acc05ce5",
+      "validUntil": "2024-11-06T11:51:10.073Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "ef150f20ccd63c9225960a78b5759b88",
+      "validUntil": "2024-11-06T11:51:12.333Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "c76ced227c482e90acf1ff5fba38a8c1",
+      "validUntil": "2024-11-06T11:51:14.575Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "499ad389c294ae32377aa5af3adc0c28",
+      "validUntil": "2024-11-06T11:51:16.816Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "5029194dc4b3f3e6b464f89b93d84856",
+      "validUntil": "2024-11-06T11:51:19.066Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "3ca1d761eda7c0faa3bb39048b60aa68",
+      "validUntil": "2024-11-06T11:51:21.314Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "9c4c0754b619000a91d646e028524de3",
+      "validUntil": "2024-11-06T11:51:35.098Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "2b15760aac519b887a3214b17f86cf0b",
+      "validUntil": "2024-11-06T11:53:31.824Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "9f4ab37a97c2a63bc84a32c2e02604d7",
+      "validUntil": "2024-11-06T11:54:06.000Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "831ac2d28fbf8478eefa99f544931aaf",
+      "validUntil": "2024-11-06T12:00:14.568Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "a2e131da9b08a3f2fd0c9e98e18b603e",
+      "validUntil": "2024-11-06T12:16:58.979Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "c287d98eb4f0a4d5e449cf4d2c210d5a",
+      "validUntil": "2024-11-06T12:55:30.012Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "3122d02c110318db1f3b733070023055",
+      "validUntil": "2024-11-06T12:55:37.603Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "b447bbd568443c6e229c8de86738a1cf",
+      "validUntil": "2024-11-06T12:55:39.923Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "b5141dc41d245ac97f6ba369af500267",
+      "validUntil": "2024-11-06T12:55:42.139Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "7c35d03c335220c2378e26466721fa1e",
+      "validUntil": "2024-11-06T12:55:44.413Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "db73776cca8d24659cd5902163923faa",
+      "validUntil": "2024-11-06T12:55:46.684Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "650e970e24647e49a1e5f8e10d0a3a54",
+      "validUntil": "2024-11-06T12:55:48.890Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "2d4cedb25a1ae1e3d959e17d3267e679",
+      "validUntil": "2024-11-06T12:55:51.124Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "9fba534729fed23c1bf112231ba7324f",
+      "validUntil": "2024-11-06T12:55:53.400Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "074ccd9f7f3d102ea4168836f3810bcd",
+      "validUntil": "2024-11-06T12:55:56.069Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "f535cea5170f300a6d05d511d8caf47b",
+      "validUntil": "2024-11-06T12:55:58.323Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "bdff20719c71028f2d6d19c487c040a7",
+      "validUntil": "2024-11-06T12:56:00.604Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "9275173cb0feb3a599da26c8698d1418",
+      "validUntil": "2024-11-06T12:56:59.704Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "ace06e3675e67724f12319b31b81c880",
+      "validUntil": "2024-11-06T12:57:01.990Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "f6f0c4c4b90ff53936da8bfe42eae283",
+      "validUntil": "2024-11-06T12:57:04.276Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "df9cb8b490ec66cf6bc1ec7e936cc856",
+      "validUntil": "2024-11-06T12:57:06.527Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "cc34f08cf11e1dfb216eda5c5a43d0e3",
+      "validUntil": "2024-11-06T12:57:08.739Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "310ffead7bc460369acb9dd0853123a7",
+      "validUntil": "2024-11-06T12:57:11.000Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "916c7750403d4de1d368674572317fbe",
+      "validUntil": "2024-11-06T12:59:14.927Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "cfa89e1d3d5757e9a81137854e3ce7f0",
+      "validUntil": "2024-11-06T12:59:20.507Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "9b394c22cec3ef7ff84395249248cc72",
+      "validUntil": "2024-11-06T13:05:25.844Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "7f08fe0f06b46cdcf9492dabf9f3222d",
+      "validUntil": "2024-11-06T13:18:54.143Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "d5bf15a425081e28f8f1319f1c89edd1",
+      "validUntil": "2024-11-06T13:22:08.707Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "97387f259512cb2f95d5daecef6e552f",
+      "validUntil": "2024-11-06T13:22:24.145Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "a81246d3d257e54dc123b07d268305da",
+      "validUntil": "2024-11-06T13:31:41.750Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "2a24fdfe13962769afff88f9baa28f94",
+      "validUntil": "2024-11-06T13:32:28.295Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "26469915fbfb0b7423f6416bb468153c",
+      "validUntil": "2024-11-06T13:33:46.171Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "3c5f5c58952d86915f1457a8ff7c75ec",
+      "validUntil": "2024-11-06T13:35:01.388Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "ccf0b275b44a1cfa6b52d1b8f874c30a",
+      "validUntil": "2024-11-06T13:57:06.175Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "5ee58b42308175740ed84f6a58faba56",
+      "validUntil": "2024-11-06T14:03:49.008Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "e80da350eba16df8b9f64933d8cf3fc5",
+      "validUntil": "2024-11-06T14:03:57.848Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "ad5235a96b59c32d7fadb2854372de08",
+      "validUntil": "2024-11-06T14:14:20.499Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "97f92239d0ab26c671319e83b7e825d4",
+      "validUntil": "2024-11-06T14:14:43.746Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "c80c1105adc86663b5aed99d45e956ca",
+      "validUntil": "2024-11-06T14:18:32.112Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "56fef86b4da37822d8afc7e7d02d3905",
+      "validUntil": "2024-11-06T14:18:54.842Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "63161225174f4bbc68a2da1671372b84",
+      "validUntil": "2024-11-06T14:19:05.775Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "d9f74c79efd45e61f3bac0deea65d2e5",
+      "validUntil": "2024-11-06T14:21:14.727Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "4b3ee33a92e3e568c633ef90b4d167b7",
+      "validUntil": "2024-11-06T14:21:28.729Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "fe78622461607cef7ae0a043c3da542c",
+      "validUntil": "2024-11-06T14:21:44.941Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "94f161e6f0f8dc0835cb26d05e13d9ec",
+      "validUntil": "2024-11-06T14:29:39.218Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "6f47c418c163ef27942091dde73b5465",
+      "validUntil": "2024-11-06T14:29:46.273Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "e5b5aa0271fe933b4a8e3718d76c0b15",
+      "validUntil": "2024-11-06T14:29:49.178Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "4dc5a7e0e392096fe65a0648410651d6",
+      "validUntil": "2024-11-06T14:29:52.279Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "cac358ef1fb5ff853ce30a83cb0057dc",
+      "validUntil": "2024-11-06T14:29:55.250Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "99488f9c8bf31c913db47de7f284faed",
+      "validUntil": "2024-11-06T14:29:57.646Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "4d3b7e8cbf188cd158dea0aa4bb74456",
+      "validUntil": "2024-11-06T14:30:10.788Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "8745171894c0baa78f974cacde26be4a",
+      "validUntil": "2024-11-06T14:30:23.910Z",
+      "student": {
+        "rfid": "51001885D11D",
+        "studentName": "Alpar, Necirvan",
+        "id": "474723",
+        "class": "9-A",
+        "birthDate": "11.07.2008"
+      }
+    },
+    {
+      "verifyKey": "ac09ec5929079456d4c7f58bcd98cd22",
+      "validUntil": "2024-11-06T14:31:20.912Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "b80e4aa33d6e3b6d30587faa60277773",
+      "validUntil": "2024-11-06T14:31:42.309Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "d806e6069365dcf81d840b0668a28efd",
+      "validUntil": "2024-11-07T08:12:46.883Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "9e4987ea1d1520722f03e9961b0c4754",
+      "validUntil": "2024-11-07T08:13:02.997Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    },
+    {
+      "verifyKey": "f9d2caf06306ef7329a0c3f14f3b7f42",
+      "validUntil": "2024-11-07T08:13:09.012Z",
+      "student": {
+        "rfid": "4F005752763C",
+        "studentName": "Ley, Niklas",
+        "id": "857323",
+        "class": "10-A",
+        "birthDate": "10.01.2008"
+      }
+    }
+  ]
+}

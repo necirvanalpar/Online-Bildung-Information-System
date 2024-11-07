@@ -1,0 +1,92 @@
+[
+  {
+    "studentName": "mohamad",
+    "tckn": "1998.82.34",
+    "barcode": "cacab83c-e075-47ed-8572-ba1bb80f1391",
+    "verificationUrl": "http://localhost:3000/"
+  },
+  {
+    "studentName": "mohamad",
+    "tckn": "1998.82.34",
+    "barcode": "2e5cbf42-7024-4562-88d1-b15c8f457fc0",
+    "verificationUrl": "http://localhost:3000/"
+  },
+  {
+    "studentName": "mohamad",
+    "tckn": "1998.82.34",
+    "barcode": "a047a74b-21fb-4938-9517-2e8004c9ccae",
+    "verificationUrl": "http://localhost:3000/"
+  },
+  {
+    "studentName": "mohamad",
+    "tckn": "1998.82.34",
+    "barcode": "367574ee-f580-4170-8a62-1c2e5061096f",
+    "verificationUrl": "http://localhost:3000/"
+  },
+  {
+    "studentName": "Necirvan Alpar",
+    "tckn": "2008.11.23",
+    "barcode": "16f5dc80-c68e-4229-96b6-5e291cb5a217",
+    "verificationUrl": "http://localhost:3000/"
+  },
+  {
+    "studentName": "Necirvan Alpar",
+    "tckn": "2008.11.23",
+    "barcode": "88dcdf2e-e342-4c84-8b96-fe159061df02",
+    "verificationUrl": "http://localhost:3000/"
+  },
+  {
+    "studentName": "Necirvan Alpar",
+    "tckn": "2008.11.23",
+    "barcode": "a993de80-2a65-49a4-b897-7c57fbeec790",
+    "verificationUrl": "http://localhost:3000/"
+  },
+  {
+    "studentName": "Necirvan Alpar",
+    "tckn": "2008.11.23",
+    "barcode": "3151042a-d207-467c-a832-3288ad8bd3ab",
+    "verificationUrl": "http://localhost:3000/"
+  },
+  {
+    "studentName": "Necirvan Alpar",
+    "tckn": "2008.11.23",
+    "barcode": "574f693b-d6b9-4989-977e-91176f73a9ec",
+    "verificationUrl": "http://localhost:3000/"
+  },
+  {
+    "studentName": "Necirvan Alpar",
+    "tckn": "2008.11.23",
+    "barcode": "089933ea-44a4-43f2-83fb-1462533bdc79",
+    "verificationUrl": "http://localhost:3000/"
+  },
+  {
+    "studentName": "wdwd",
+    "tckn": "wdwdw",
+    "barcode": "84b61532-93c6-484b-9805-20fe226db4dd",
+    "verificationUrl": "wdwd"
+  },
+  {
+    "studentName": "mohammad",
+    "tckn": "1997",
+    "barcode": "b26327d6-c67e-49c9-b7a8-6ae246a0dfe7",
+    "verificationUrl": "deutschland.com"
+  },
+  {
+    "studentName": "jostin",
+    "tckn": "2012",
+    "barcode": "f5e03e09-e60d-424d-8dea-9a5208575e26",
+    "verificationUrl": "deutschland.com"
+  },
+  {
+    "studentName": "Ebrahim",
+    "tckn": "2009",
+    "barcode": "5f014d8a-5ceb-45f7-a2af-31391ca13b71",
+    "verificationUrl": "libyen"
+  },
+  {
+    "studentName": "Ebrahim",
+    "tckn": "2009",
+    "barcode": "8f2b4751-2c21-4d8d-934e-89fe247098fd",
+    "verificationUrl": "libyen"
+  }
+]

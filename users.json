@@ -1,0 +1,16 @@
+[
+  {
+    "rfid": "4F005752763C",
+    "studentName": "Ley, Niklas",
+    "id": "857323",
+    "class": "10-A",
+    "birthDate": "10.01.2008"
+  },
+  {
+    "rfid": "51001885D11D",
+    "studentName": "Alpar, Necirvan",
+    "id": "474723",
+    "class": "9-A",
+    "birthDate": "11.07.2008"
+  }
+]
