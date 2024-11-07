@@ -12,7 +12,7 @@ export default function HomePage() {
   const handleDownload = async () => {
     try {
       // verifyKey'i kullanarak API çağrısı yap
-      const response = await fetch(`/api/verifyKey?verifyKey=${verifyKey}`);
+      const response = await fetch(`http://aras.mywire.org:3000/api/verifyKey?verifyKey=${verifyKey}`);
       const data = await response.json();
 
       if (!response.ok) {
